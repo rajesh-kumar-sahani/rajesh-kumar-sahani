@@ -1,10 +1,31 @@
 # 💫 Hi 👋, I'm Rajesh Kumar Sahani
 
 
+I'm an aspiring **SOC Analyst** focused on building practical cybersecurity skills through hands-on learning, labs, and security investigations.
+
+🔐 **Currently learning and practicing:**
+- 🌐 Networking 
+- 🪟 Windows Security & PowerShell
+- 🐧 Linux Fundamentals
+- 🚨 SOC Operations & Incident Investigation
+- 📊 SIEM & Log Analysis
+- 🛡️ Threat Detection & IOC Analysis
+- ☁️ Cloud Security
+
+🎯 **Career Goal:**  
+SOC Analyst → Cloud Security Engineer
+
+I believe cybersecurity is best learned by **doing, investigating, documenting, and continuously improving**. I'm building projects and investigation reports to demonstrate my practical skills rather than focusing only on certifications.
+
+📚 Currently documenting my cybersecurity journey through hands-on labs, projects, and security research.
+
+🤝 Open to connecting with cybersecurity professionals, SOC analysts, security engineers, and fellow learners.
+
+**Let's learn, investigate, and build. 🚀**
+
 Email Me 👉 ✉️ **rjssahani789@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🌱 **I’m currently learning:** CYBERSECURITY
 
   
   
